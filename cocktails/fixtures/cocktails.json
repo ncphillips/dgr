@@ -1,0 +1,8 @@
+[
+  {
+    "pk": 1,
+    "model": "cocktails.cocktail",
+    "fields": { "name": "Old Fashioned" }
+  },
+  { "pk": 2, "model": "cocktails.cocktail", "fields": { "name": "Manhattan" } }
+]
