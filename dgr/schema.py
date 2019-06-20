@@ -8,5 +8,4 @@ class Query(cocktails.schema.Query, ObjectType):
     def resolve_hello(self, ctx):
         return "Wrold"
 
-
 schema = Schema(query=Query)
